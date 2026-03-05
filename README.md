@@ -31,7 +31,7 @@ CropSync addresses this by:
 - **Neo4j** (Knowledge Graph / Explainability)
 - **Python** (Pandas, Neo4j driver)
 - **Streamlit** (simple UI)
-- **Scikit-learn** (ML-lite components; scalable later)
+- **Scikit-learn** (ML components; scalable later)
 
 ---
 
