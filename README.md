@@ -1,2 +1,0 @@
-# Crop-Sync
-# Crop-Sync
