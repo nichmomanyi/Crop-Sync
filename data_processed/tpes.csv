@@ -1,0 +1,7 @@
+name,description,stressors
+ARID,"Extremely dry areas with minimal rainfall, often less than 400 mm annually","['DROUGHT', 'HEAT', 'STRIGA', 'SALINITY']"
+SEMI_ARID,Areas with moderate rainfall (400-800 mm annually) but prone to drought,"['DROUGHT', 'HEAT', 'STRIGA', 'BIRD_DAMAGE']"
+SUB_HUMID,Areas with moderate to high rainfall (800-1200 mm annually),"['GRAIN_MOLD', 'ANTHRACNOSE', 'BIRD_DAMAGE', 'PESTS']"
+HUMID,"High rainfall areas with high humidity, often more than 1200 mm annually","['GRAIN_MOLD', 'ANTHRACNOSE', 'APHIDS', 'FUNGAL_DISEASES']"
+HIGH_ALTITUDE,"Cool, high-altitude areas, typically above 1500 meters","['COLD', 'STRIGA', 'LOW_OXYGEN']"
+LOWLAND_TROPICAL,"Warm, low-altitude areas with consistent rainfall","['HIGH_HUMIDITY', 'PESTS', 'DISEASES']"
