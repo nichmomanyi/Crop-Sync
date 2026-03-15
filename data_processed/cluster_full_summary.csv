@@ -1,0 +1,33 @@
+cluster,variety_id,location_id,lat,lon,temperature,humidity,rainfall,year,variety_name,crop_name,town,country,tpe_description,stressors
+0,9.264423076923077,14.620192307692308,-0.48494226471815594,0.5954567945676631,-0.3070967748886629,0.32625978280576357,0.3563463329031778,2024.5,"['Mucuvea(2015)' 'otela(2015)' 'Yeipa1(2019)' 'Kapaala(1996)'
+ 'Dorado(1996)' 'AtokpleChi(2022)' 'AdSARGHUM1(2022)' 'AdSARGHUM2(2022)'
+ 'AdSARGHUM3(2022)' 'Gadam(1994)' 'KariMtama1(2000)' 'Kamani(2019)'
+ 'SESO1(2011)' 'NAROSORG1(2017)' 'NAROSORG4(2017)' 'SORVATO9(2019)'
+ 'ABM(2019)' 'SOUBATIMI(2019)' 'PépéKalé(2019)']",['sorghum'],"['Maputo' 'Entebbe' 'Juba' 'Lomé' 'Niamey' 'Mombasa' 'Kampala' 'Arusha'
+ 'Dar es Salaam' 'Chimoio']",['Mozambique' 'Uganda' 'South Sudan' 'Togo' 'Niger' 'Kenya' 'Tanzania'],"['Extremely dry areas with minimal rainfall, often less than 400 mm annually']","[""['DROUGHT', 'HEAT', 'STRIGA', 'SALINITY']""]"
+1,40.568627450980394,4.327886710239651,0.6571592455483298,-0.9076218295076085,0.5780550468372533,-0.4839348891070805,-0.5769603862754306,2024.5,"['S-35(1986)' 'Kolmonrouge(1993)' 'Damougari(1998)'
+ 'Tiandougoucoura(2010)' 'Sila(2016)' 'Fadda(2010)' 'Mota-Maradi(1994)'
+ 'K3R(1995)' 'Tegemeo(1983)' 'TARISOR1(2021)' 'TARISOR2(2021)'
+ 'Macia(1999)' 'Wahi(2002)' 'Pablo(2011)' 'NAROSORG2(2017)' 'Macia(2012)'
+ 'AGRAC116(2016)' 'ARAC216(2016)' 'Seredo(1970)' 'Grinkan(2007)']",['sorghum'],"['Tamale' 'Ouagadougou' 'Kumasi' 'Accra' 'Bobo-Dioulasso' 'Yaoundé'
+ ""N'Djamena"" 'Douala']",['Ghana' 'Burkina Faso' 'Cameroon' 'Chad'],"['Extremely dry areas with minimal rainfall, often less than 400 mm annually']","[""['DROUGHT', 'HEAT', 'STRIGA', 'SALINITY']""]"
+2,9.390937829293994,4.884088514225501,0.5581310089895225,-0.691732175846726,0.32776046250692664,-0.338641324695641,-0.3826950599650366,2024.5,"['Mucuvea(2015)' 'otela(2015)' 'Yeipa1(2019)' 'Kapaala(1996)'
+ 'Dorado(1996)' 'AtokpleChi(2022)' 'AdSARGHUM1(2022)' 'AdSARGHUM2(2022)'
+ 'AdSARGHUM3(2022)' 'Gadam(1994)' 'KariMtama1(2000)' 'Kamani(2019)'
+ 'SESO1(2011)' 'NAROSORG1(2017)' 'NAROSORG4(2017)' 'SORVATO9(2019)'
+ 'ABM(2019)' 'SOUBATIMI(2019)' 'PépéKalé(2019)']",['sorghum'],"[""N'Djamena"" 'Ouagadougou' 'Kumasi' 'Nairobi' 'Douala' 'Tamale'
+ 'Bobo-Dioulasso' 'Accra' 'Yaoundé']",['Chad' 'Burkina Faso' 'Ghana' 'Kenya' 'Cameroon'],"['Extremely dry areas with minimal rainfall, often less than 400 mm annually']","[""['DROUGHT', 'HEAT', 'STRIGA', 'SALINITY']""]"
+3,41.13898305084746,14.211016949152542,-0.4625546325412835,0.6414224382056262,-0.45685747603529175,0.39585033224162486,0.44958904676293104,2024.5,"['Kolmonrouge(1993)' 'Damougari(1998)' 'Tiandougoucoura(2010)'
+ 'Sila(2016)' 'Fadda(2010)' 'Mota-Maradi(1994)' 'K3R(1995)'
+ 'Tegemeo(1983)' 'TARISOR1(2021)' 'TARISOR2(2021)' 'Macia(1999)'
+ 'Wahi(2002)' 'Pablo(2011)' 'NAROSORG2(2017)' 'Macia(2012)'
+ 'AGRAC116(2016)' 'ARAC216(2016)' 'Seredo(1970)' 'Grinkan(2007)']",['sorghum'],"['Entebbe' 'Kampala' 'Lomé' 'Arusha' 'Dar es Salaam' 'Maputo' 'Juba'
+ 'Niamey' 'Chimoio' 'Mombasa' 'Nairobi']",['Uganda' 'Togo' 'Tanzania' 'Mozambique' 'South Sudan' 'Niger' 'Kenya'],"['Extremely dry areas with minimal rainfall, often less than 400 mm annually']","[""['DROUGHT', 'HEAT', 'STRIGA', 'SALINITY']""]"
+4,25.80888429752066,10.148760330578513,-0.042760378739063444,0.05862455110202468,0.008663871740798038,-0.021069587203847006,-0.00428099942763325,2024.5,"['ABM(2019)' 'SOUBATIMI(2019)' 'PépéKalé(2019)' 'CS-54(1992)' 'S-35(1965)'
+ 'Soubatimi(2015)' 'Zouaye(2004)' 'Tocole(2015)' 'Maita-1(2015)'
+ 'Mapupulo(2015)' 'Seso3(2018)' 'SESO3(2011)' 'IRAT-204(1994)'
+ 'IRAT204(1980)' 'S-35(1986)' 'Kolmonrouge(1993)' 'Damougari(1998)'
+ 'Tiandougoucoura(2010)']",['sorghum'],"['Mombasa' 'Nairobi' 'Maputo' ""N'Djamena"" 'Juba' 'Niamey' 'Douala'
+ 'Chimoio' 'Ouagadougou' 'Lomé' 'Bobo-Dioulasso' 'Arusha' 'Dar es Salaam'
+ 'Yaoundé' 'Entebbe' 'Kumasi' 'Tamale' 'Kampala' 'Accra']","['Kenya' 'Mozambique' 'Chad' 'South Sudan' 'Niger' 'Cameroon'
+ 'Burkina Faso' 'Togo' 'Tanzania' 'Uganda' 'Ghana']","['Extremely dry areas with minimal rainfall, often less than 400 mm annually']","[""['DROUGHT', 'HEAT', 'STRIGA', 'SALINITY']""]"
