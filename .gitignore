@@ -1,3 +1,4 @@
 echo ".ipynb_checkpoints/" >> .gitignore
 git add .gitignore
 git commit -m "Ignore notebook checkpoints".ipynb_checkpoints/
+.ipynb_checkpoints/
